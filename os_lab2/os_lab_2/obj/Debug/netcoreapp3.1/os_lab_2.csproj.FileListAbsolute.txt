@@ -1,0 +1,14 @@
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\bin\Debug\netcoreapp3.1\os_lab_2.exe
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\bin\Debug\netcoreapp3.1\os_lab_2.deps.json
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\bin\Debug\netcoreapp3.1\os_lab_2.runtimeconfig.json
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\bin\Debug\netcoreapp3.1\os_lab_2.runtimeconfig.dev.json
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\bin\Debug\netcoreapp3.1\os_lab_2.dll
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\bin\Debug\netcoreapp3.1\os_lab_2.pdb
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\obj\Debug\netcoreapp3.1\os_lab_2.csproj.AssemblyReference.cache
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\obj\Debug\netcoreapp3.1\os_lab_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\obj\Debug\netcoreapp3.1\os_lab_2.AssemblyInfoInputs.cache
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\obj\Debug\netcoreapp3.1\os_lab_2.AssemblyInfo.cs
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\obj\Debug\netcoreapp3.1\os_lab_2.csproj.CoreCompileInputs.cache
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\obj\Debug\netcoreapp3.1\os_lab_2.dll
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\obj\Debug\netcoreapp3.1\os_lab_2.pdb
+C:\Users\ДНС\source\repos\os_lab_2\os_lab_2\obj\Debug\netcoreapp3.1\os_lab_2.genruntimeconfig.cache

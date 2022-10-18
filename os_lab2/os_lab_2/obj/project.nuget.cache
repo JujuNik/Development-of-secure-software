@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jt379q1xK+AFRA/3PLkUiwIRgSs6PXfM3AP0xSt9M5KTGP384GjWm+zPMogxdjXKtRuChlN8PMIVe3hI+9H4xg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ДНС\\source\\repos\\os_lab_2\\os_lab_2\\os_lab_2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ДНС\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\ДНС\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
